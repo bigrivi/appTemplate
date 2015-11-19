@@ -1,0 +1,25 @@
+local data = {
+	[10001] = { Id=10001, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10002] = { Id=10002, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10003] = { Id=10003, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10004] = { Id=10004, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10005] = { Id=10005, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10006] = { Id=10006, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10007] = { Id=10007, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10008] = { Id=10008, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10009] = { Id=10009, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10010] = { Id=10010, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10011] = { Id=10011, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10012] = { Id=10012, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10013] = { Id=10013, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10014] = { Id=10014, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10015] = { Id=10015, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10016] = { Id=10016, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10017] = { Id=10017, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10018] = { Id=10018, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10019] = { Id=10019, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10020] = { Id=10020, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+	[10021] = { Id=10021, Name="卡尔", Avatar=10001, WearPos=1, WearLv=1, Quality=1, Hp=1000, Mp=1000, Atk=5, Ini=5, Def=5, Mr=5, Dex=5, Agi=5 },
+
+}
+return data

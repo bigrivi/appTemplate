@@ -1,0 +1,25 @@
+local data = {
+	[1] = { Id=1, HeadUp=100, FaceUp=100, BodyUp=100, WeaponUp=100, HandUp=100, FootUp=100, BackUp=100, TitleUp=100 },
+	[2] = { Id=2, HeadUp=101, FaceUp=101, BodyUp=101, WeaponUp=101, HandUp=101, FootUp=101, BackUp=101, TitleUp=101 },
+	[3] = { Id=3, HeadUp=102, FaceUp=102, BodyUp=102, WeaponUp=102, HandUp=102, FootUp=102, BackUp=102, TitleUp=102 },
+	[4] = { Id=4, HeadUp=103, FaceUp=103, BodyUp=103, WeaponUp=103, HandUp=103, FootUp=103, BackUp=103, TitleUp=103 },
+	[5] = { Id=5, HeadUp=104, FaceUp=104, BodyUp=104, WeaponUp=104, HandUp=104, FootUp=104, BackUp=104, TitleUp=104 },
+	[6] = { Id=6, HeadUp=105, FaceUp=105, BodyUp=105, WeaponUp=105, HandUp=105, FootUp=105, BackUp=105, TitleUp=105 },
+	[7] = { Id=7, HeadUp=106, FaceUp=106, BodyUp=106, WeaponUp=106, HandUp=106, FootUp=106, BackUp=106, TitleUp=106 },
+	[8] = { Id=8, HeadUp=107, FaceUp=107, BodyUp=107, WeaponUp=107, HandUp=107, FootUp=107, BackUp=107, TitleUp=107 },
+	[9] = { Id=9, HeadUp=108, FaceUp=108, BodyUp=108, WeaponUp=108, HandUp=108, FootUp=108, BackUp=108, TitleUp=108 },
+	[10] = { Id=10, HeadUp=109, FaceUp=109, BodyUp=109, WeaponUp=109, HandUp=109, FootUp=109, BackUp=109, TitleUp=109 },
+	[11] = { Id=11, HeadUp=110, FaceUp=110, BodyUp=110, WeaponUp=110, HandUp=110, FootUp=110, BackUp=110, TitleUp=110 },
+	[12] = { Id=12, HeadUp=111, FaceUp=111, BodyUp=111, WeaponUp=111, HandUp=111, FootUp=111, BackUp=111, TitleUp=111 },
+	[13] = { Id=13, HeadUp=112, FaceUp=112, BodyUp=112, WeaponUp=112, HandUp=112, FootUp=112, BackUp=112, TitleUp=112 },
+	[14] = { Id=14, HeadUp=113, FaceUp=113, BodyUp=113, WeaponUp=113, HandUp=113, FootUp=113, BackUp=113, TitleUp=113 },
+	[15] = { Id=15, HeadUp=114, FaceUp=114, BodyUp=114, WeaponUp=114, HandUp=114, FootUp=114, BackUp=114, TitleUp=114 },
+	[16] = { Id=16, HeadUp=115, FaceUp=115, BodyUp=115, WeaponUp=115, HandUp=115, FootUp=115, BackUp=115, TitleUp=115 },
+	[17] = { Id=17, HeadUp=116, FaceUp=116, BodyUp=116, WeaponUp=116, HandUp=116, FootUp=116, BackUp=116, TitleUp=116 },
+	[18] = { Id=18, HeadUp=117, FaceUp=117, BodyUp=117, WeaponUp=117, HandUp=117, FootUp=117, BackUp=117, TitleUp=117 },
+	[19] = { Id=19, HeadUp=118, FaceUp=118, BodyUp=118, WeaponUp=118, HandUp=118, FootUp=118, BackUp=118, TitleUp=118 },
+	[20] = { Id=20, HeadUp=119, FaceUp=119, BodyUp=119, WeaponUp=119, HandUp=119, FootUp=119, BackUp=119, TitleUp=119 },
+	[21] = { Id=21, HeadUp=120, FaceUp=120, BodyUp=120, WeaponUp=120, HandUp=120, FootUp=120, BackUp=120, TitleUp=120 },
+
+}
+return data
